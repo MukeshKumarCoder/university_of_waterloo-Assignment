@@ -1,0 +1,8 @@
+.nextBtn {
+    position: absolute;
+    bottom: 5%;
+    right: 10%;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}

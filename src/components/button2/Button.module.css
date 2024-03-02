@@ -1,0 +1,12 @@
+.btn {
+    position: absolute;
+    top: 3%;
+    left: 5%;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.btn>img {
+    width: 80px;
+}
